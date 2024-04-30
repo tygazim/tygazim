@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding & hacking
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...hacking
-- 📫 How to reach me ...www.tygasparta.com
+- 📫 How to reach me ...www.tyga-sparta.com
 
 <!---
 tygazim/tygazim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
